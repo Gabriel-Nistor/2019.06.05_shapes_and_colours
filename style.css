@@ -1,0 +1,62 @@
+body {
+    background-color: rgb(219, 207, 192);
+}
+
+.mainBox {
+    width: 604px;
+    height: 404px;
+    border: 1px black solid;
+    background-color: rgb(237, 250, 250);
+}
+
+h1 {
+    text-align: center;
+}
+
+.threeBoxes {
+    margin: 0 auto;
+    width: 216px;
+    height: 70px;
+}
+
+.smallBox {
+    width: 70px;
+    height: 70px;
+    border: 1px black solid;
+    float: left;
+}
+
+.purple {
+    background-color: rgb(69, 26, 109);
+}
+
+.blue {
+    background-color: blue;
+}
+
+.red {
+    background-color: red;
+}
+
+.longBox {
+    height: 90px;
+    background-color: rgb(226, 226, 137);
+    border: solid 0.5px black;
+}
+
+.circleBox {
+    margin: 0 auto;
+    width: 90px;
+    height: 90px;
+    background-color: black;
+    border-radius: 100%;
+}
+
+.triangleBox {
+    width: 0;
+    height: 0;
+    border-left: 80px solid transparent;
+    border-right: 80px solid transparent;
+    border-bottom: 160px solid green;
+    margin: auto;
+}
